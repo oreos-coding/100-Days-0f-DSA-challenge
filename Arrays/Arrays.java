@@ -86,6 +86,8 @@ public class Arrays {
 //         scn.close();
 //     }
 
+/* CHECK IF AN ARRAY IS SORTED */
+
 // public static boolean isSorted(int n, int [] arr){
 //     for(int i = 1;i<n;i++){
 //         if(arr[i] >= arr[i-1]){
@@ -106,5 +108,11 @@ public class Arrays {
 //    boolean Sorted =  isSorted(n, arr);
 //    System.out.println(Sorted);
 // }
+
+/* REMOVE DUPLICATE IN-PLACE FROM SORTED ARRAY */
+public static void main(String[] args) {
+    
+}
+
 
 }
