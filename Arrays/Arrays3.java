@@ -1,4 +1,5 @@
-//LEFT ROTATE THE ARRAY BY ONE PLACE
+public class Arrays3 {
+  //LEFT ROTATE THE ARRAY BY ONE PLACE
 
 import java.util.Scanner;
 
@@ -21,7 +22,7 @@ public class Arrays2 {
     for(int i =0;i<n;i++){
       arr[i] = scn.nextInt();
     }
-    
+
     /* left rotate by d  */
 
     // System.out.println("Enter the no. of places to rotate");
@@ -57,5 +58,13 @@ public class Arrays2 {
   //   reverse(arr, d, n - 1);   // Reverse remaining elements
   //   reverse(arr, 0, n - 1);   // Reverse the entire array
 // }
+
+/* Move all zeros to the end of the array */
+
+
+
+
+
+}
 
 }

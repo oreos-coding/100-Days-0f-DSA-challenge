@@ -16,3 +16,9 @@
   3.CHECK IF AN ARRAY IS SORTED
 - 💡 **Learnings:**  
   - Able to solve some easy questions based on them
+
+## 🗓️ Day 3
+- 📌 **Topic:** Arrays (Basic Problems)  
+- ✅ **Solved:**  
+1- LEFT ROTATE AN ARRAY BY ONE PLACE/D places
+
