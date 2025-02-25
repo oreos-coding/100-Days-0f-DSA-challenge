@@ -59,7 +59,7 @@ public class Arrays2 {
   //   reverse(arr, 0, n - 1);   // Reverse the entire array
 // }
 
-/* Move all zeros to the end of the array */
+
 
 
 
